@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Nimantha Kasun </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Nimantha Jayasooriya </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com> font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome to My Page...&hearts;++;Self-taught+Front-End+Developer,;Data+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs.."></a>
@@ -11,18 +11,21 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <img src="https://img.icons8.com/dusk/64/000000/about.png" width="20px"> **About Me**
 
-<!--<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>-->
+I am a passionate and self-driven software engineer and data scientist with a solid foundation in full-stack development and machine learning. With a BSc (Hons) in Data Science, I am dedicated to applying technology to solve real-world problems.
 
-<br>
+I have professional experience in web development, server administration, and AI solution development. My expertise includes Python, R, and SQL, along with front-end development technologies like HTML, CSS, and JavaScript. I have worked on various projects ranging from machine learning models to web applications, and I have a deep interest in scalable software solutions.
 
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
-- 4th YearUndergraduate Student
-- Following Bsc(Hons)in IT in Data Science Dgree
-<!--- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently , this is [my resume](https://read.cv/0xabdulkhalid)-->
+Currently, I am expanding my skills in cloud computing and modern DevOps practices, while also pursuing research in data science and artificial intelligence. I am committed to continuous learning and thrive in collaborative environments where innovation and teamwork drive success.
+
+### Highlights:
+- **Proficient in:** Python, R, SQL, HTML, CSS, JavaScript
+- **Machine Learning & Data Science:** Experience with SVM, Logistic Regression, and data visualization tools
+- **Web Development:** Expertise in front-end technologies and building user-friendly web applications
+- **Cloud & Server Management:** Familiar with cloud platforms (Azure, GitHub Pages) and server administration on Linux (Ubuntu)
+- **Problem Solver:** Enthusiastic about tackling challenging problems with creative, data-driven solutions
+
 
 <br><br>
 
@@ -104,9 +107,8 @@
 </a>
 </div>
 
-<br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b> <img src="https://img.icons8.com/fluency/48/handshake.png" width="25px">
 <br>
 <div align='left'>
 
@@ -141,9 +143,7 @@
 
 </div>
 <br>
-<br>
-<br>
-<br>
+
 
 ---
 
